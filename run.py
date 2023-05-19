@@ -42,7 +42,8 @@ def main():
             
             out_imgs = dds(ref_img, upd_img, scheduler, pipe, ref_prompt, update_prompt)
 
-            imageio.mimwrite(f'./results/{prompt_id:02d}_{exp_id:02d}_out.mp4', out_imgs, fps=15)
+            # imageio.mimwrite(f'./results/{prompt_id:02d}_{exp_id:02d}_out.mp4', out_imgs, fps=15)
+            imageio.mimwrite(f'./results/{prompt_id:02d}_{exp_id:02d}_out.gif', out_imgs,)
             imageio.imwrite(f'./results/{prompt_id:02d}_{exp_id:02d}_upd.png', out_imgs[-1])
     return
   

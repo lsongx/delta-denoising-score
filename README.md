@@ -11,8 +11,8 @@ An unofficial reimplementation of [Delta Denoising Score (DDS)](https://delta-de
 
 update | input image | output image
 :-: | :-: | :-: 
-<video src='results/00_00_out.mp4' width=180/> | <img src='results/00_00_ref.png' width=180/> | <img src='results/00_00_upd.png' width=180/>
-<video src='results/00_01_out.mp4' width=180/> | <img src='results/00_01_ref.png' width=180/> | <img src='results/00_01_upd.png' width=180/>
+<img src='results/00_00_out.gif' width=180/> | <img src='results/00_00_ref.png' width=180/> | <img src='results/00_00_upd.png' width=180/>
+<img src='results/00_01_out.gif' width=180/> | <img src='results/00_01_ref.png' width=180/> | <img src='results/00_01_upd.png' width=180/>
 
 
 
@@ -24,8 +24,8 @@ update | input image | output image
 
 update | input image | output image
 :-: | :-: | :-: 
-<video src='results/01_00_out.mp4' width=180/> | <img src='results/01_00_ref.png' width=180/> | <img src='results/01_00_upd.png' width=180/>
-<video src='results/01_01_out.mp4' width=180/> | <img src='results/01_01_ref.png' width=180/> | <img src='results/01_01_upd.png' width=180/>
+<img src='results/01_00_out.gif' width=180/> | <img src='results/01_00_ref.png' width=180/> | <img src='results/01_00_upd.png' width=180/>
+<img src='results/01_01_out.gif' width=180/> | <img src='results/01_01_ref.png' width=180/> | <img src='results/01_01_upd.png' width=180/>
 
 
 
@@ -38,6 +38,6 @@ update | input image | output image
 
 update | input image | output image
 :-: | :-: | :-: 
-<video src='results/02_00_out.mp4' width=180/> | <img src='results/02_00_ref.png' width=180/> | <img src='results/02_00_upd.png' width=180/>
-<video src='results/02_01_out.mp4' width=180/> | <img src='results/02_01_ref.png' width=180/> | <img src='results/02_01_upd.png' width=180/>
+<img src='results/02_00_out.gif' width=180/> | <img src='results/02_00_ref.png' width=180/> | <img src='results/02_00_upd.png' width=180/>
+<img src='results/02_01_out.gif' width=180/> | <img src='results/02_01_ref.png' width=180/> | <img src='results/02_01_upd.png' width=180/>
 
